@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Your application</Name>
+    <Version>1.0.0</Version>
+    <Title>Titawin Installer</Title>
+    <Publisher>3307 Titawin</Publisher>
+    <StartMenuDir>TitawinApp</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer>
