@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5462b93b7625421fab3c0cc9f7abf59
+timeCreated: 1490291293
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: aurora
+  fontNames:
+  - aurora
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

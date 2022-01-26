@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Upgrade_Attributes.cs">
+    <Files>
+      <File FileName="Assets/script/teleport.cs" Line="21" Column="1" />
+      <File FileName="Assets/script/PlayerMovement.cs" Line="14" Column="51" />
+      <File FileName="Assets/script/bulletMoveForward.cs" Line="13" Column="63" />
+      <File FileName="Assets/script/playerShooting.cs" Line="78" Column="3" />
+      <File FileName="Assets/script/SelfDestruct.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/selfDisable.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/autoSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/swardRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/playerAttributsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Upgrade_Attributes.cs" Line="22" Column="43" />
+      <File FileName="Assets/script/swordTimer.cs" Line="15" Column="32" />
+      <File FileName="Assets/script/kamehaCtr.cs" Line="16" Column="54" />
+      <File FileName="Assets/script/DamageHandler.cs" Line="42" Column="35" />
+      <File FileName="Assets/script/customPlayericon.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/beijitaQi.cs" Line="5" Column="23" />
+      <File FileName="Assets/script/beijitaShooting.cs" Line="60" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
