@@ -1,0 +1,33 @@
+/****** System requirment: ******/
+
+Windows, MacOS, Linux
+Download and install Java SE Runtime Environment 8 or newer version.
+
+/********************************/
+
+/****** Files description: ******/
+
+Assignment3 folder: The source java project. 
+Assignment3_RongchenSun.jar: Runable jar file. Click for running the system.
+database_backup folder: The folder has original database files. Use this for backup when database files are broken.
+goods_in_store, goods_list, sells_list: Three files store datas which are needed by system.
+
+/********************************/
+
+/****** Addition of running system: ******/
+
+Account name for cashier: cashier
+Password for cashier: cashier
+Account name for manager: manager
+password for manager: manager
+
+Input for customer searching: 
+name is the specific name of goods, can find in goods_list file.
+Search by price, minimum price to maximum price. Could be integer or decimal number.
+All text field can be empty.
+
+Cashier sell page:
+Product ID should be correct ID, which is in goods_list file.
+Finish button for rewriting database.
+
+/********************************/
