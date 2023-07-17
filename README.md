@@ -1,5 +1,5 @@
 # Rongchen(Tony) Sun
-[11 Lambeth Square, Scarborough, ON, M1W 3B3]  
+[115 Timber Valley Ave, Richmond Hill, ON, L4E 4Z8]  
 [+1 (519)-701-9673] [sunrc727@gmail.com]  
   
 # Projects and reference
