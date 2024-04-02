@@ -2,8 +2,8 @@
 [Richmond Hill, ON]  
 [+1 (519)-701-9673] [sunrc727@gmail.com]  
 
-***Full-stack React and Nodejs project** [Go to repo](https://github.com/rsun45/About_Me/tree/main/Full-stack%20React%20and%20Nodejs%20project%20)  
-    -A website based board game project with AI player, used nodejs for backend and React for frontend.  
+***Board game with AI pleyer** [Go to repo](https://github.com/rsun45/About_Me/tree/main/Full-stack%20React%20and%20Nodejs%20project%20)  
+    -Live demo link:  [https://goda-board-game-84f072a7cbc1.herokuapp.com/](https://goda-board-game-84f072a7cbc1.herokuapp.com/)
   
 ***Data Analysis Software Project** [Go to repo](https://github.com/rsun45/About_Me/tree/main/CS3307)  
     -Used Qt Creator and Qt library, with C++ programing language. Qt library fir Frontend and data trees, data analyzer, data classifier for backend.  
