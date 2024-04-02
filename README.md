@@ -1,13 +1,9 @@
-# Rongchen(Tony) Sun
-[115 Timber Valley Ave, Richmond Hill, ON, L4E 4Z8]  
+# Tony Sun
+[Richmond Hill, ON]  
 [+1 (519)-701-9673] [sunrc727@gmail.com]  
-  
-# Projects and reference
-***PLC feedback data collection and analyze project** [Go to repo](https://github.com/rsun45/MyMCSController.git)  
-    -A local area network project, used nodejs for backend and React for frontend. The software read PLC data and store into MSSQL database, backend pull and analyze data then show to customer on frontend using lists and charts with sorting functions.
 
 ***Full-stack React and Nodejs project** [Go to repo](https://github.com/rsun45/About_Me/tree/main/Full-stack%20React%20and%20Nodejs%20project%20)  
-    -A website based board game project, used nodejs for backend and React for frontend.  
+    -A website based board game project with AI player, used nodejs for backend and React for frontend.  
   
 ***Data Analysis Software Project** [Go to repo](https://github.com/rsun45/About_Me/tree/main/CS3307)  
     -Used Qt Creator and Qt library, with C++ programing language. Qt library fir Frontend and data trees, data analyzer, data classifier for backend.  
