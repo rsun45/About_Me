@@ -2,6 +2,10 @@
 [Richmond Hill, ON]  
 [+1 (519)-701-9673] [sunrc727@gmail.com]  
 
+
+***Production management system** 
+    -Live demo link:  [https://production-system-demo-58eaf804a30b.herokuapp.com/](https://production-system-demo-58eaf804a30b.herokuapp.com/)
+    
 ***Board game with AI pleyer** [Go to repo](https://github.com/rsun45/About_Me/tree/main/Full-stack%20React%20and%20Nodejs%20project%20)  
     -Live demo link:  [https://goda-board-game-84f072a7cbc1.herokuapp.com/](https://goda-board-game-84f072a7cbc1.herokuapp.com/)
   
