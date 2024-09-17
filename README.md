@@ -3,6 +3,9 @@
 [+1 (519)-701-9673] [sunrc727@gmail.com]  
 
 
+***Google Data Analytics Professional Certificate**  
+    -link:  [https://coursera.org/verify/professional-cert/F1CHL3RAXK1V](https://coursera.org/verify/professional-cert/F1CHL3RAXK1V)
+
 ***Production management system**  
     -Live demo link:  [https://production-system-demo-58eaf804a30b.herokuapp.com/](https://production-system-demo-58eaf804a30b.herokuapp.com/)
     
